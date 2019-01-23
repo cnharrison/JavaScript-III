@@ -1,12 +1,6 @@
 /* The for principles of "this";
 * in your own words. explain the four principle for the "this" keyword below.
 
-* 4. window binding - if you invoke a function and there is nothing to the left of the dot. the this keywords defaults to the window object
-if we use strict mode, this doesn't work. it returns an error 😬
-
-* write out a code example of each explanation above
-*/
-
 // Principle 1
 
 /* 
